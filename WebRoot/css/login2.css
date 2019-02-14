@@ -1,0 +1,45 @@
+body, html{background: #f5f5f5;}
+	.container {width: 850px;margin: 0 auto;margin-top: 60px; background: #fff;padding-bottom: 80px;margin-bottom: 40px;}
+	.container2 {width: 850px;margin: 0 auto;margin-top: 60px; background: #fff;padding-bottom: 40px;margin-bottom: 40px;}
+	#loginForm{width: 370px; margin: 0 auto; }
+	.logo{background: url(https://account.nubia.com/res1/images/nubia-logo.png) no-repeat; background-position:0 -55px;width: 156px;height: 55px;margin:0 auto;margin-bottom: 20px;position: relative;top: 30px;}
+	.navTab{font-size: 18px;color:#333;margin:0 auto;text-align: center;margin-bottom: 20px;margin-top: 40px;}
+	.navTab label{display: inline-block;cursor: pointer;}
+	.navTab label.cur{color:#e8380d;}
+	.navCon {width:360px;margin:0 auto;}
+	.navCon dl{line-height: 1.5;position: relative;}
+	.navCon .input-con {margin-bottom: 20px;}
+	.navCon .input-con input{width: 100%; height: 50px;line-height: 50px;padding-left:10px;border:1px solid #e0e4e7;vertical-align: middle;font-size: 12px;}
+	.navCon .input-con .btn-code{border-left:1px solid #e0e4e7;display: inline-block;position: absolute;top:0;right: 0;height: 50px;line-height: 1.5;padding: 0;cursor: pointer;background:#fff;width: 100px;text-align: center;}
+	.capcha{display: inline-block;}
+	.capcha img{height: 48px;width: 120px;vertical-align: middle;display: inline-block;}
+	#tab-mobile, #tab-email{display: none;}
+    #theAgreement a{color:#e8380d;}
+    #regButton, .btn-login{width:360px;height:50px;line-height:50px;margin:0 auto;display: block;margin-bottom:20px;font-size:20px;background: #e8380d;color: #fff;border:none;cursor: pointer;}
+    .register-now{text-align:right;margin-top:10px;}
+    .register-now a{font-size: 14px;}
+    .third-login .qq,.third-login .weibo,.third-login .alipay,.third-login .wx{float: none;display: inline-block;margin-left: 15px;margin-right:0px;}
+    .third-login{margin-top: 20px; }
+    .third-login .qq{background:url(https://account.nubia.com/res1/images/third_login.png) no-repeat -1px -1px;width: 28px;height: 28px;display: block;float: right;}
+    .third-login .qq:hover{background-position:-1px -30px;}
+    .third-login .weibo{background:url(https://account.nubia.com/res1/images/third_login.png) no-repeat -30px -1px;width: 28px;height: 28px;display: block;float: right;}
+    .third-login .weibo:hover{background-position: -30px -30px;}
+    .third-login .alipay{background:url(https://account.nubia.com/res1/images/third_login.png) no-repeat -88px -1px;width: 28px;height: 28px;display: block;float: right;}
+    .third-login .alipay:hover{background-position: -88px -30px;}
+    .third-login .wx{background:url(https://account.nubia.com/res1/images/third_login.png) no-repeat -59px -1px;width: 28px;height: 28px;display: block;float: right;}
+    .third-login .wx:hover{background-position: -59px -30px;}
+    
+    #registerform{width: 370px; margin: 0 auto; }
+	#tab-mobile, #tab-email{display: none;}
+	#theAgreement a{color:#e8380d;}
+	#regButton{width:360px;height:50px;line-height:50px;margin-bottom:20px;font-size:20px;background: #e8380d;color: #fff;border:none;cursor: pointer;}
+	.check_tips {
+		position: absolute;
+		width: 300px;
+		top: 15px;
+		left: 370px;
+	}
+	.error_tip{
+		font-size: 12px;
+		color: red;
+	}

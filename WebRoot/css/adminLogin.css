@@ -1,0 +1,87 @@
+body {
+	background-color: #1D3647;
+	margin:0 auto;
+	padding:0px;
+}
+.login_top_bg {
+	background-image: url(images/login-top-bg.gif);
+	background-repeat: repeat-x;
+	height:42px;
+	width:100%;
+}
+.login_top_bg h3{
+	margin-left:42%;
+	color:#ccc;
+}
+.login_bg {
+	background-image: url(images/login_bg.jpg);
+	background-repeat: repeat-x;
+	height:532px;
+	width:100%;
+	position:relative;
+}
+.admin_txt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	text-decoration: none;
+	height: 38px;
+	width: 100%;
+	position: 固定;
+	line-height: 38px;
+}
+.admin_topbg {
+	background-image: url(images/top-right.gif);
+	background-repeat: repeat-x;
+}
+.form{
+	height:180px;
+	width:320px;
+	margin:0 auto;
+	padding-top:180px;
+}
+.login_bg > img{
+	position:absolute;
+	bottom:0px;
+	right:0px;
+}
+.login_bg table{
+	position:relative;
+}
+.login_botton{
+	position:absolute;
+	right:40px;
+}
+.login_buttom_bg {
+	background-image: url(images/login-buttom-bg.gif);
+	background-repeat: repeat-x;
+	height:20px;
+	width:100%;
+}
+.login_buttom_txt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #ABCAD3;
+	text-decoration: none;
+	line-height: 20px;
+	margin-left:40%;
+}
+.login_txt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 25px;
+	color: #333333;
+}
+.login_txt_bt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 25px;
+	color: #666666;
+	font-weight: bold;
+}
+.info{
+	margin-top:10%;
+}
+.info dl{
+	margin-left:40%;
+}
